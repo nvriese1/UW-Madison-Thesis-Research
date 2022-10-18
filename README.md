@@ -14,7 +14,9 @@ Numerical modeling research conducted during my M.S. degree program (Hydrology) 
 ## Overview
 
 Portfolio of machine learning-focused data science projects completed during the Springboard Data Science Career Track curriculum. 
-Contents primarily include well-annotated Jupyter notebooks showcasing predictive modeling techniques in Python and SQL which leverage real-world datasets. 
+Contents primarily include well-annotated Jupyter notebooks showcasing predictive modeling techniques in Python and SQL which leverage real-world datasets.
+
+![Flow Channeling COMSOL](/Assets/flowchanneling.png)
 
 ## Abstract
 
