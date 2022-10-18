@@ -13,8 +13,8 @@ Numerical modeling research conducted during my M.S. degree program (Hydrology) 
 
 ## Overview
 
-Portfolio of machine learning-focused data science projects completed during the Springboard Data Science Career Track curriculum. 
-Contents primarily include well-annotated Jupyter notebooks showcasing predictive modeling techniques in Python and SQL which leverage real-world datasets.
+Portfolio of materials produced during research at the University of Wisconsin-Madison Department of Geoscience in pursuit of my M.S. Hydrology degree. 
+Contents primarily include the final thesis draft and associated visualizations relating to flow and heat exchange modeling in a highly-realistic fractured rock model domain for the purpose of constraining geothermal efficiency at various surface roughnesses.
 
 ![Flow Channeling COMSOL](/Assets/flowchanneling.png)
 
