@@ -13,7 +13,7 @@ Numerical modeling research conducted during my M.S. degree program (Hydrology) 
 
 ## Overview
 
-Portfolio of materials produced during research at the University of Wisconsin-Madison Department of Geoscience in pursuit of my M.S. Hydrology degree. 
+ &nbsp;&nbsp;&nbsp;&nbsp;Portfolio of materials produced during research at the University of Wisconsin-Madison Department of Geoscience in pursuit of my M.S. Hydrology degree. 
 Contents primarily include the final thesis draft and associated visualizations relating to flow and heat exchange modeling in a highly-realistic fractured rock model domain for the purpose of constraining geothermal efficiency at various surface roughnesses.
 
 ![Flow Channeling COMSOL](/Assets/flowchanneling.png)
